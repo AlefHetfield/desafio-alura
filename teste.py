@@ -1,7 +1,7 @@
 from num2words import num2words as extenso
 
-print('R$750.000,00')
-valor_do_imóvel = 500000
+print('R$900.000,00')
+valor_do_imóvel = 900000
 print(extenso(valor_do_imóvel, lang='pt'), 'reais.')
 
 
